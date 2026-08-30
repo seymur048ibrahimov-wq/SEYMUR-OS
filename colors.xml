@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Qoyulmalıdır: SeymurOS/app/src/main/res/values/colors.xml -->
+<resources>
+    <color name="bg">#080B12</color>
+    <color name="panel">#121725</color>
+    <color name="accent">#7C5CFF</color>
+    <color name="accent_soft">#AFA7FF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B9C0D4</color>
+    <color name="hint">#778099</color>
+</resources>
